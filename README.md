@@ -1,5 +1,4 @@
 # QR Code Genarator
-# This is our website (Stable Release)
 ## Developer: Mahmood Hassan Rameem
 ## _Studing Diploma Engineering_
 ## _Computer Technology_
