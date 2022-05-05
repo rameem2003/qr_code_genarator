@@ -7,14 +7,22 @@ ___
 
 <br>
 
-### My website: rameem2003.github.io/rameem.me
+### My website:
+```
+https://rameem2003.github.io/rameem.me/
+```
+
+
+### To visit this site
+```
+https://rameem2003.github.io/qr_code_genarator/
+```
 
 <br>
 
-### To browse my web site copy it 
-```
-rameem2003.github.io/oursite
-```
+# App interface
+![view](./view.png)
+
 
 ## Task List
 
